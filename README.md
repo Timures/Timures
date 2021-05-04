@@ -13,5 +13,4 @@
 
 ### A little bit about me
 - I'm a Frontend Developer
-- Freelancer on [Kwork](https://kwork.com/user/timures) - HTML Development (Convert Web Design to HTML)
 - Speak Russian and English
