@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Timures
 
 ### 👀 I’m interested in 
-- Frontend Development - Javascript, Vue.
+- Frontend Development - Javascript, React, Vue.
 - Data Science - Python, ML
 ### 🌱 I’m currently learning:
 - Javascript, Python, ML on FreeCodeCamp
