@@ -9,11 +9,9 @@
 - by [Linkedin](https://www.linkedin.com/in/timures/)
 
 ### A little bit about me
-- I'm a Frontend Developer with 5+ year experience
+- I'm a Frontend Developer with 8+ year experience
 - Speak Russian (Native) and English (B2)
+- Solopreneur
 
-### My Portfolio 
-- [Portfolio](https://portfolio.timures.space/)
-
-### My blog about startup and web tech
-- [Timures](https://timures.com/)
+### My portfolio and blog about my projects
+- [Timures](https://timures.me)
